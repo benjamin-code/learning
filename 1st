@@ -1,2 +1,2 @@
-s=r'''\t'''
+s=r'''This is a test!\t'''
 print s
